@@ -39,3 +39,11 @@ main() {
 
 
 Observamos que la función scanf() tiene un formato similar al de la función printf(). Primero contiene %f entre comillas. Esto le dice al programa que se espera recibir un valor de tipo real. A continuación, se indica el identificador en el que se almacenará el valor. Esto se hace usando un coma fuera de las comillas y después un signo & (ampersand) inmediatamente seguido del nombre del identificador de la variable (&valor). Ahora, el valor que introduzca el usuario será el valor de la variable.
+
+
+
+
+
+			EJECUCION DE MI PRIMER CODIGO DE EJEMPLO
+   ![image](https://github.com/AnaPanamito/PrimerCodigo/assets/170195020/c81428a1-00a2-4bb8-8714-1726e9718ab6)
+
